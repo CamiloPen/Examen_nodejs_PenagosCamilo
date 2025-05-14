@@ -1,0 +1,17 @@
+{
+  "name": "examen-nodejs",
+  "version": "1.0.0",
+  "main": "dbInitialization.js",
+  "type": "module",
+  "scripts": {
+    "initdb": "node --env-file=.env dbInitialization.js",
+    "etl": "node --env-file=.env ETL/load.js",
+    "reports": "node --env-file=.env reports.js"
+  },
+  "author": "Camilo Penagos",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mongodb": "6.16.0"
+  }
+}

@@ -1,0 +1,61 @@
+date,article,quantity,price,movement,warehouse,description
+2025-01-01,B004,9,184.86,income,BS01,Entrada de 9 Reposa pies Remintong
+2025-01-01,C002,20,158.87,income,BS02,Entrada de 20 Espejo Cassandra
+2025-04-01,C003,14,60.06,income,BC01,Entrada de 14 Comedor Arturo VI
+1970-01-01,C003,6,123.48,income,BS02,Entrada de 6 Comedor Arturo VI
+1970-01-01,B002,7,149.24,income,BC01,Entrada de 7 Escritorio Arminto
+1970-01-01,A001,11,73.63,income,BN01,Entrada de 11 Laptop Asus R05
+1970-01-01,A002,15,129.71,income,BC01,Entrada de 15 Mouse Inalámbrico Logitech
+1970-01-01,B004,20,146.15,income,BN01,Entrada de 20 Reposa pies Remintong
+1970-01-01,A001,8,92.82,income,BS02,Entrada de 8 Laptop Asus R05
+1970-01-01,A002,14,5.9,income,BC01,Entrada de 14 Mouse Inalámbrico Logitech
+1970-01-01,B003,19,142.14,income,BS02,Entrada de 19 Lampara de Escritorio Venus
+1970-01-01,B001,16,155.55,income,BN01,Entrada de 16 Silla de Oficina Remintong
+1970-01-01,C003,19,105.58,income,BN01,Entrada de 19 Comedor Arturo VI
+1970-01-01,C002,19,174.92,income,BN01,Entrada de 19 Espejo Cassandra
+1970-01-01,A002,1,100.94,expenses,BC01,Salida de 1 Mouse Inalámbrico Logitech
+2025-01-02,C001,8,53.27,income,BS01,Entrada de 8 Sofá Primavera Verde
+2025-04-02,A001,8,91.92,income,BS01,Entrada de 8 Laptop Asus R05
+2025-06-02,B001,9,109.77,income,BS01,Entrada de 9 Silla de Oficina Remintong
+2025-07-02,B004,8,84.08,expenses,BS01,Salida de 8 Reposa pies Remintong
+2025-08-02,B004,11,58.44,income,BS02,Entrada de 11 Reposa pies Remintong
+2025-10-02,B001,14,199.76,expenses,BN01,Salida de 14 Silla de Oficina Remintong
+2025-11-02,A002,18,82.99,income,BN01,Entrada de 18 Mouse Inalámbrico Logitech
+2025-12-02,A002,8,146.79,income,BS02,Entrada de 8 Mouse Inalámbrico Logitech
+2025-12-02,B004,17,108.04,income,BC01,Entrada de 17 Reposa pies Remintong
+1970-01-01,C003,7,186.87,expenses,BN01,Salida de 7 Comedor Arturo VI
+1970-01-01,B002,14,163.84,income,BC01,Entrada de 14 Escritorio Arminto
+1970-01-01,B004,12,57.75,expenses,BN01,Salida de 12 Reposa pies Remintong
+1970-01-01,C002,8,90.16,income,BS01,Entrada de 8 Espejo Cassandra
+1970-01-01,C001,4,58.67,income,BS02,Entrada de 4 Sofá Primavera Verde
+1970-01-01,B002,19,129.46,income,BS01,Entrada de 19 Escritorio Arminto
+1970-01-01,C001,9,142.14,income,BN01,Entrada de 9 Sofá Primavera Verde
+2025-01-03,B002,16,188.23,expenses,BS01,Salida de 16 Escritorio Arminto
+2025-04-03,A002,18,177.15,income,BS01,Entrada de 18 Mouse Inalámbrico Logitech
+2025-05-03,B003,16,184.02,income,BN01,Entrada de 16 Lampara de Escritorio Venus
+2025-05-03,B001,8,159.95,income,BS01,Entrada de 8 Silla de Oficina Remintong
+2025-07-03,A002,14,182.87,income,BS01,Entrada de 14 Mouse Inalámbrico Logitech
+2025-08-03,A002,18,66.62,expenses,BN01,Salida de 18 Mouse Inalámbrico Logitech
+2025-09-03,B001,5,82.52,expenses,BS01,Salida de 5 Silla de Oficina Remintong
+1970-01-01,B003,12,113.67,income,BS01,Entrada de 12 Lampara de Escritorio Venus
+1970-01-01,B003,7,166.97,expenses,BS01,Salida de 7 Lampara de Escritorio Venus
+1970-01-01,A002,16,92.25,expenses,BC01,Salida de 16 Mouse Inalámbrico Logitech
+1970-01-01,A001,6,50.05,expenses,BS02,Salida de 6 Laptop Asus R05
+1970-01-01,C003,17,162.56,income,BS01,Entrada de 17 Comedor Arturo VI
+1970-01-01,B002,6,162.98,expenses,BC01,Salida de 6 Escritorio Arminto
+1970-01-01,A002,13,119.05,income,BN01,Entrada de 13 Mouse Inalámbrico Logitech
+1970-01-01,C001,5,62.51,expenses,BS01,Salida de 5 Sofá Primavera Verde
+1970-01-01,B002,8,179.34,income,BS02,Entrada de 8 Escritorio Arminto
+1970-01-01,C003,16,97.99,expenses,BS01,Salida de 16 Comedor Arturo VI
+1970-01-01,B003,3,74.05,expenses,BS02,Salida de 3 Lampara de Escritorio Venus
+1970-01-01,A001,3,85.96,expenses,BS01,Salida de 3 Laptop Asus R05
+1970-01-01,C002,1,7.3,expenses,BS01,Salida de 1 Espejo Cassandra
+1970-01-01,B001,5,154.52,expenses,BS01,Salida de 5 Silla de Oficina Remintong
+1970-01-01,C003,4,75.42,expenses,BS02,Salida de 4 Comedor Arturo VI
+1970-01-01,C001,3,106.45,income,BC01,Entrada de 3 Sofá Primavera Verde
+1970-01-01,B002,9,114.97,income,BC01,Entrada de 9 Escritorio Arminto
+2025-01-04,C002,7,199.33,income,BC01,Entrada de 7 Espejo Cassandra
+2025-01-04,C002,6,84.66,expenses,BS01,Salida de 6 Espejo Cassandra
+2025-04-04,B004,6,181.71,expenses,BC01,Salida de 6 Reposa pies Remintong
+2025-05-04,B003,4,90.11,expenses,BS01,Salida de 4 Lampara de Escritorio Venus
+2025-06-04,B004,3,186.45,income,BN01,Entrada de 3 Reposa pies Remintong

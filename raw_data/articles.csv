@@ -1,0 +1,10 @@
+CodigoArticulo,nombre,descripcion,codigo-categoria,nombre-categoria,categoria-activa,articulo-activo
+A001,Laptop Asus R05,Computador portátil,TECH,Tecnology,si,si
+A002,Mouse Inalámbrico Logitech,Mouse Inalámbrico Logitech,TECH,Tecnology,si,si
+B001,Silla de Oficina Remintong,Silla de Oficina Remintong,OFFI,Office,si,si
+B002,Escritorio Arminto,Escritorio Arminto,OFFI,Office,si,si
+B003,Lampara de Escritorio Venus,Lampara de Escritorio Venus,OFFI,Office,si,si
+B004,Reposa pies Remintong,Reposa pies Remintong,OFFI,Office,si,si
+C001,Sofá Primavera Verde,Sofá Primavera Verde,HOME,Home,si,si
+C002,Espejo Cassandra,Espejo Cassandra,HOME,Home,si,si
+C003,Comedor Arturo VI,Comedor Arturo VI,HOME,Home,si,si
